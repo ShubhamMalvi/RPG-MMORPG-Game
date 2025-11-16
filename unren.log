@@ -1,0 +1,150 @@
+--------------------------------- 
+new UnRen debug v1.0.11d run 
+found C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+errorlevel3 = 0 
+01 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+errorlevel4 = 0 
+checking 01 
+No 01 
+02 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+Check PY2a 
+03 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+in PY2b else 
+04 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+in PY else 
+in PY bitness 
+06 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+PYTHONHOME = C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+PYTHONPATH = C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\decompiler\ 
+07 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+PYTHONHOME=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+PYTHONPATH=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\decompiler\ 
+08 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
+PYTHONHOME=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+PYTHONPATH=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\;C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\decompiler\ 
+Starting rpyc decompile loop 
+In rpyc 01 
+In rpyc 01 
+In rpyc 01 
+In rpyc 01 
+06 
+renpy8=false 
+PY3=py3-windows- 
+python3=false 
+PY2=py2-windows- 
+python2=false 
+PY2=windows- 
+_os_bitness=x86_64 
+_python_bitness=i686 
+pythondir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\windows-i686\ 
+pythonlibdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\lib\ 
+currentdir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+powershellpath=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+renpydir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\renpy\ 
+maindir=C:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\ 
+gamedirC:\Users\Shubham\OneDrive\Desktop\NEBULATHEGAME\NEBULATHEGAME-1.0-win\NEBULATHEGAME-1.0-win\game\ 
